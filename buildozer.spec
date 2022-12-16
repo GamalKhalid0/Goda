@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = SampleApp
+title = بسم الله 
 
 # (str) Package name
 package.name = sampleapk
